@@ -14,6 +14,6 @@ source emo/prompt
 
 [pure]: https://github.com/sindresorhus/pure
 
-- - -
+## License
 
 MIT. [Shuvalov Anton](http://shuvalov.info) © 2014
