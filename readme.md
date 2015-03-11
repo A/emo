@@ -6,7 +6,11 @@ Super tiny and emotional zsh prompt inspired by [pure][pure]. You fall in love w
 
 ## Install
 
-Soon…
+Just clone this repo and append follow line somewhere in your `.zshrc`:
+
+```zsh
+source emo/prompt
+```
 
 [pure]: https://github.com/sindresorhus/pure
 
