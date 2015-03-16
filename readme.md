@@ -9,7 +9,7 @@ Super tiny and emotional zsh prompt inspired by [pure][pure]. You fall in love w
 Just clone this repo and append follow line somewhere in your `.zshrc`:
 
 ```zsh
-source emo/prompt
+source emo/prompt.zsh
 ```
 
 [pure]: https://github.com/sindresorhus/pure
